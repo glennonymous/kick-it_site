@@ -1,0 +1,34 @@
+/*dark blue: #231161*/
+/*light blue: #0071ce*/
+/*orange: #ff671b*/
+
+body {
+    padding-top: 140px;
+    background: rgb(245,245,245);
+}
+
+h1 {
+    color: #231161;
+}
+
+h1>strong {
+    font-weight: inherit;
+    color: #ff671b;
+}
+
+.hero {
+    font-size: 4em;
+    margin-top: 0px;
+}
+
+.navbar-kickit {
+    height: 110px;
+}
+
+.benefit {
+    border-bottom: solid lightgray 8px;
+}
+
+.margin-below {
+    margin-bottom: 30px;
+}
